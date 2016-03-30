@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/CornHoleCannon/Cannon.unity
+- path: Assets/CornHoleCannon/scenes/Cannon.unity
   isLoaded: 1
   isActive: 1
